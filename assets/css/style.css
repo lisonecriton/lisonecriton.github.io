@@ -141,6 +141,16 @@ h1, h2, h3, h4, h5, h6 {
     border-right: 1px solid #e6e9ec;
     left: -300px;
   }
+
+  /*--------------------------------------------------------------
+  # My rules
+  --------------------------------------------------------------*/
+  .container
+  {padding-right: 7.75rem;}
+  {padding-left: 22.75rem;}
+  {margin-left: 226px;}
+
+
 }
 
 @media (min-width: 992px) {
