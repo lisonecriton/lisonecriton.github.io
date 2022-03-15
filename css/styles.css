@@ -11127,9 +11127,9 @@ header.masthead {
   position: relative;
   margin-bottom: 3rem;
   padding-top: calc(8rem + 57px);
-  padding-bottom: 8rem;
+  padding-bottom: 14rem;
   background: no-repeat center center;
-  background-color: #6c757d;
+  background-color: #ffffff;
   background-size: cover;
   background-attachment: scroll;
 }
