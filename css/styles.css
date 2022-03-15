@@ -11124,7 +11124,7 @@ footer {
 }
 
 header.masthead {
-  position: relative;
+  position: center bottom;
   margin-bottom: 3rem;
   padding-top: calc(8rem + 57px);
   padding-bottom: 14rem;
@@ -11132,6 +11132,7 @@ header.masthead {
   background-color: #ffffff;
   background-size: cover;
   background-attachment: scroll;
+
 }
 header.masthead:before {
   content: "";
@@ -11140,7 +11141,7 @@ header.masthead:before {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #212529;
+  background-color: ;
   opacity: 0.5;
 }
 header.masthead .page-heading,
