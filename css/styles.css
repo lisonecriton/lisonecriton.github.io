@@ -7091,6 +7091,21 @@ textarea.form-control-lg {
 
 }
 
+.hervorhebung {
+  font-size: 1.7rem;
+  color: #da6809;
+  font-style: italic;
+  margin-bottom: 1.5rem !important;
+}
+
+.zitat_hervorhebung {
+  text-align: center;
+  font-size: 1.7rem;
+  color: #da6809;
+  font-style: italic;
+  margin-bottom: 1.5rem !important;
+}
+
 .mb-5 {
   margin-bottom: 3rem !important;
 }
@@ -11231,7 +11246,7 @@ header.masthead .site-heading .h1 {
   color: #0085A1;
 }
 .post-preview > a > .post-title {
-  font-size: 1.875rem;
+  font-size: 1.000rem;
   margin-top: 1.875rem;
   margin-bottom: 0.625rem;
 }
