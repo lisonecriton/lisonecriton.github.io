@@ -587,6 +587,13 @@ progress {
   text-transform: uppercase;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
 .blockquote {
   margin-bottom: 1rem;
   font-size: 1.25rem;
@@ -7107,6 +7114,16 @@ textarea.form-control-lg {
 
 .zitat_hervorhebung {
   text-align: center;
+  font-size: 1.7rem;
+  color: #da6809;
+  font-style: italic;
+  margin-bottom: 1.5rem !important;
+}
+
+.thoughts {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
   font-size: 1.7rem;
   color: #da6809;
   font-style: italic;
