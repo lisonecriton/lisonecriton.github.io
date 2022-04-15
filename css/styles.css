@@ -7130,6 +7130,20 @@ textarea.form-control-lg {
   margin-bottom: 1.5rem !important;
 }
 
+.impressum {
+  text-align: justify;
+  margin-left: 15rem;
+  margin-right: 15rem;
+  font-size: 1.2rem;
+  color: #000000;
+  font-style: ;
+  margin-bottom: 1.5rem !important;
+}
+
+.fat {
+  font-weight: bold;
+}
+
 .mb-5 {
   margin-bottom: 3rem !important;
 }
